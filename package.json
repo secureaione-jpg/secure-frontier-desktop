@@ -1,7 +1,7 @@
 {
   "name": "secure-frontier-desktop",
   "productName": "Secure Frontier",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Secure Frontier — the desktop app for secureai.one/frontier",
   "author": {
     "name": "Secure AI",
@@ -69,7 +69,8 @@
       {
         "provider": "github",
         "owner": "secureaione-jpg",
-        "repo": "secure-frontier-desktop"
+        "repo": "secure-frontier-desktop",
+        "releaseType": "release"
       }
     ]
   },
