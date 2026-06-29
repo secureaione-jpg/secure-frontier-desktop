@@ -3,7 +3,7 @@
   "productName": "Secure Frontier",
   "version": "0.1.0",
   "description": "Secure Frontier — the desktop app for secureai.one/frontier",
-  "author": "Secure AI",
+  "author": { "name": "Secure AI", "email": "secureai.one@gmail.com" },
   "private": true,
   "main": "main.js",
   "scripts": {
